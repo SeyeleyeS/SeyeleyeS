@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...blockchain defi , RWA, Mana, 
 - 🌱 I’m currently learning web3 and coding for web3...
 - 💞️ I’m looking to collaborate on . peojects and monetization..
-- 📫 How to reach me ...https://rubi.click/join/YOURUBI
+-
 - john@number0ne.com
 - VenueX.net
 - ScooTourSF.com
