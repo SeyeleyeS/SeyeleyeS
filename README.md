@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @SeyeleyeS
-- 👀 I’m interested in ...blockchain defi , RWA, Mana, 
-- 🌱 I’m currently learning web3 and coding for web3...
-- 💞️ I’m looking to collaborate on . peojects and monetization..
--
-- john@number0ne.com
-- VenueX.net
-- ScooTourSF.com
+- 👋 Hi, John Leyes here
+
+- Excuse the layout as i get accustomed to Github
+
+
+Get your property title and  register to blockchain for privacy, transparency and security.
+- DAPTRA.onchain is digital asset property title registry and appraisal with time stamped airial images
+- and spacial coordinate designation all pinned to
+- one financial instrument and contained in the profolio of your propertyaddress.onchain.
+- A web3domain profolio minted as 0ft- an omnichain nft by layerzero with collateral value.
+
 - 
-- 😄 Pronouns: REAP  ...
+-   ...
 - ⚡ Fun fact: Catch me at a Giants game Selling you a beer or two.
 - Theyre only 15 bucks each.you only live once so Ill be back when ya need another 😅..cheeers
 
-<!---
-SeyeleyeS/SeyeleyeS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+>
