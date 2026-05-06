@@ -2,11 +2,11 @@
 
 - Excuse the layout as i get accustomed to Github
 
-
+Protectreal.com presents DAPTRA.Onchain
 Get your property title and  register to blockchain for privacy, transparency and security.
-- DAPTRA.onchain is digital asset property title registry and appraisal with time stamped airial images
-- and spacial coordinate designation all pinned to
-- one financial instrument and contained in the profolio of your propertyaddress.onchain.
+- DAPTRA.onchain is digital appraised property title registry authority ONChain 
+- The Standard protocol for Spatial Property Identity.
+- one financial instrument in your folio of your propertyaddress.onchain.
 - A web3domain profolio minted as 0ft- an omnichain nft by layerzero with collateral value.
 
 - 
